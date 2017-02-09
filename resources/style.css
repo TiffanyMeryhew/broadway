@@ -1,1 +1,10 @@
 /*have to start this file.*/
+body{
+  text-align: center;
+}
+div{
+  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.jpg);
+}
+#footer{
+  background-color: dimgray;
+}
